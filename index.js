@@ -1,5 +1,5 @@
 function
-sayHelloToIsabel() {
+sayHelloToSofia() {
   console.log("Hello,
-  Isabel!")
+  Sofia!")
 }
