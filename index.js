@@ -1,4 +1,5 @@
-function say(greeting, firstName) {
-  console.log(`${greeting},
-    $(firstName}!`)
-  }
+function sayHello() {
+  console.log('Hello!');
+}
+return 
+sayHello()
