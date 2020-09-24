@@ -1,5 +1,3 @@
-function sayHelloToBrendan()
-{
-  console.log("Hello,
-  Brendan")
-}
+sayHellotoIsabel()
+sayHellotoSofia()
+sayHellotoBrenand()
